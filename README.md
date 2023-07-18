@@ -1,5 +1,5 @@
      Hello 👋
-     This is Sanskar Rathore
+     
 - 👨‍🎓 I'm a Computer Science student
 - 🔭 I’m currently learning different Programming Languages and frameworks
 - 🤔 Interested in collaborating on Open Source Projects
